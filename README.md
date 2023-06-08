@@ -2,7 +2,5 @@
 
 # Jitpack Libraries
 
-* [Wesley](https://jitpack.io/p/violabs/wesley){:target="_blank"} - Spock like testing framework for Kotlin using Mockito.
-* [Chappy](https://jitpack.io/p/violabs/chappy){:target="_blank"} - OpenAI API objects written for Kotlin (JVM & JS)
-
-You can reach me at violabs.software @ gmail.com
+* <a href="https://jitpack.io/p/violabs/wesley" target="_blank">Wesley</a> - Spock like testing framework for Kotlin using MockK.
+* <a href="https://jitpack.io/p/violabs/chappy" target="_blank">Chappy</a> - OpenAI API objects written for Kotlin (JVM & JS)
